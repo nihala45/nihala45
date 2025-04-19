@@ -1,16 +1,14 @@
-## Hi there 👋
+                                      # 👋 Hey there, I am Nihala Shirin Valapra
 
-<!--
-**nihala45/nihala45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **full-stack developer** from India, passionate about building web applications — both front-end and back-end.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihala-shirin/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+I'm curious about how software works behind the scenes and enjoy solving real-world problems.  
+I love learning new things, exploring different technologies, and staying up to date with the latest in tech.  
+
+Being part of tech communities and discussions helps me grow and share what I learn along the way.
