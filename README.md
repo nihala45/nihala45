@@ -4,10 +4,11 @@
 
 <p align="center">
   💻 I’m a <strong>full-stack developer</strong> from India, passionate about building web applications — both front-end and back-end.
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihala-shirin/)
 </p>
 
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihala-shirin/)
+  
 
 
 
