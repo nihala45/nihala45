@@ -7,7 +7,7 @@
   
 </p>
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihala-shirin/)
+  <a href="https://www.linkedin.com/in/nihala-shirin/" style="color: #0077B5; font-size: 16px; text-decoration: none;">LinkedIn</a>
 </p>
 
 
