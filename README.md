@@ -23,8 +23,10 @@ I'm curious about how software works behind the scenes and enjoy solving real-wo
 
 Being part of tech communities and discussions helps me grow and share what I learn along the way.
 
-                                                      Technologies and Tools
-      ## 🛠️ Tech Stack
+  <p align="center">
+    Technologies and Tools
+  </p>
+  🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-thebadge&logo=javascript&logoColor=black)
