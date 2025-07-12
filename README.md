@@ -18,7 +18,7 @@ I’m curious about how software works behind the scenes and enjoy solving probl
 
 ---
 
-## Technologies and Tools
+<h3 align="center">Technologies and Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
