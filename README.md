@@ -1,7 +1,7 @@
 <h3 align="center">Hey there, I am <span style="color:#4A90E2;">Nihala Shirin Valapra</span></h3>
 
 <p align="center">
-  I’m a full-stack developer from India, building web applications with front-end, back-end, and DevOps expertise.
+  I’m a full-stack developer from India, building web applications with front-end and back-end xpertise.
 </p>
 
 <p align="center">
